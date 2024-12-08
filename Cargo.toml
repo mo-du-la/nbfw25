@@ -177,7 +177,7 @@ exclude = ["vdi/host", "examples/custom_plugin"]
 LegalCopyright = "Copyright © 2024 Purslane Ltd. All rights reserved."
 ProductName = "nbfw25"
 FileDescription = "RustDesk Remote Desktop"
-OriginalFilename = "rustdesk.exe"
+OriginalFilename = "nbfw25.exe"
 
 [target.'cfg(target_os="windows")'.build-dependencies]
 winres = "0.1"
